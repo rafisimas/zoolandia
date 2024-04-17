@@ -1,2 +1,2 @@
-# Ignorar el archivo animales.txt
-animales.txt
+# Ignorar fichero con txt
+**/txt
